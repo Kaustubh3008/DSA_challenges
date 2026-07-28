@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
