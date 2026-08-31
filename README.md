@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0992-subarrays-with-k-different-integers) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
