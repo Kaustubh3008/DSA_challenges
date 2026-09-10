@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0930-binary-subarrays-with-sum) |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
 ## Memoization
