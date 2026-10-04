@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0994-rotting-oranges) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0992-subarrays-with-k-different-integers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
