@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
@@ -160,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
