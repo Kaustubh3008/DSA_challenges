@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
