@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 ## Memoization
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
