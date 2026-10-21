@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0930-binary-subarrays-with-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
