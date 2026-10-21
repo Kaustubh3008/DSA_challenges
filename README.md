@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0078-subsets) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
