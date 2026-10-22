@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0931-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
