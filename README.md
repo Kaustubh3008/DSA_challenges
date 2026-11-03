@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
