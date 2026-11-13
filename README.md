@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Kaustubh3008/DSA_challenges/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kaustubh3008/DSA_challenges/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
